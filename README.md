@@ -1,4 +1,4 @@
-#Controle de Estoque - Oficina Reserva
+#Controle de Estoque - Loja de Roupas
 
 Programa em Python, executado no terminal, para controlar a entrada, saída e transferência de mercadorias de uma loja de roupas.
 
